@@ -1,0 +1,20 @@
+.colorbox {
+    height: 5vh;
+    width: 5vh;
+    margin-top: 3vh;
+    transition: 500ms;
+}
+
+.sidebar {
+    margin-top: 3vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 3vh;
+}
+
+.colorlist {
+    list-style-type: none;
+    padding-left: 0px;
+}

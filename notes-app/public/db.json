@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Satheesh",
+      "email": "Sat@mail.com",
+      "adderss": "South street"
+    },
+    {
+      "id": 2,
+      "name": "John",
+      "email": "john@mail.com",
+      "adderss": "North street"
+    },
+    {
+      "id": 3,
+      "name": "Robert",
+      "email": "robert@mail.com",
+      "adderss": "East street"
+    },
+    {
+      "id": 4,
+      "name": "Mani",
+      "email": "mani@mail.com",
+      "adderss": "West street"
+    },
+    {
+      "name": "raj",
+      "email": "rs@gmail.com",
+      "address": "9522778992",
+      "id": 5
+    },
+    {
+      "name": "aman",
+      "email": "av@gmail.com",
+      "address": "464841919949",
+      "id": 6
+    },
+    {
+      "name": "raj",
+      "email": "rs@gmail.com",
+      "address": "464841919949",
+      "id": 7
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "id": 8
+    },
+    {
+      "name": "ram",
+      "email": "sr@gmail.com",
+      "address": "9522778992",
+      "id": 9
+    },
+    {
+      "name": "hanu",
+      "email": "hm@g.com",
+      "address": "7828901464",
+      "id": 10
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
